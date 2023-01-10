@@ -1,0 +1,4 @@
+// We can't modify elements in a child component. These need to be modified in their own css file.
+p, h2 {
+  margin: 0;
+}
